@@ -1,6 +1,5 @@
-Flask
+flask
 flask-socketio
-eventlet
 aiohttp
 faker
 requests
