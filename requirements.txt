@@ -1,0 +1,6 @@
+Flask
+flask-socketio
+aiohttp
+faker
+requests
+curl_cffi
